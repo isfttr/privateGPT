@@ -26,6 +26,7 @@ __pycache__/
 .vscode/
 /.run/
 .fleet/
+isfttr-privateGPT.code-workspace
 
 # macOS
 .DS_Store
