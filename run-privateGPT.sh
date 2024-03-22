@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change directory to the desired folder
-cd $HOME/isfttr-privateGPT
+cd $HOME/privateGPT
 
 # Start the server using "ollama serve" command
 echo "Starting Ollama server..."
